@@ -20,6 +20,7 @@ int main(int argc, char* argv[]) {
 	}
 	
 	std::cout << "\n\nResults:\n" << (std::string)competitors;
+	std::cin.get();
 
 	return 0;
 }
