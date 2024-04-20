@@ -38,6 +38,6 @@ SportEventTimer/Debug/
 *.lib
 
 # Executables
-*.exe
+# *.exe
 *.out
 *.app
