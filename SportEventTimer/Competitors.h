@@ -8,6 +8,7 @@ struct Competitor {
 	std::string  fullname;
 	int number;
 	std::chrono::high_resolution_clock::time_point end_time;
+	bool ended = false;
 
 	Competitor(std::string string) {
 		fullname = string.substr(0, string.find(":"));
