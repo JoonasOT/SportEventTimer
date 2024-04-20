@@ -1,3 +1,10 @@
+
+# Visual Studio 2022
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.*
+
 # Prerequisites
 *.d
 
